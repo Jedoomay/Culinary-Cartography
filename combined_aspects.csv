@@ -1,0 +1,122 @@
+country,year,life_expectancy,average_iq,gdp,region,calori_avg
+Algeria,2019,77.1,76.0,4150.0,Rest Africa,3806.83
+Angola,2019,63.1,75.1,2570.0,Rest Africa,3806.83
+Argentina,2019,76.6,86.63,12700.0,South American,4420.76
+Australia,2019,83.0,99.24,58900.0,Australian,3077.94
+Austria,2019,81.6,98.38,46600.0,Deutschland,3960.89
+Bangladesh,2019,74.3,74.33,1560.0,Indian Subcontinent,2830.23
+Belarus,2019,74.8,101.6,6260.0,Eastern European,4108.86
+Belgium,2019,81.4,97.49,43100.0,Belgian,4409.46
+Benin,2019,63.4,69.71,1150.0,Rest Africa,3806.83
+Bolivia,2019,72.1,76.53,3240.0,South American,4420.76
+Botswana,2019,62.2,69.45,6490.0,Rest Africa,3806.83
+Brazil,2019,75.9,83.38,8590.0,South American,4420.76
+Bulgaria,2019,75.1,90.99,8230.0,Eastern European,4108.86
+Burkina Faso,2019,62.7,73.8,716.0,Rest Africa,3806.83
+Burundi,2019,63.8,72.09,270.0,Rest Africa,3806.83
+Cameroon,2019,62.4,67.76,1450.0,Rest Africa,3806.83
+Canada,2019,82.2,99.52,45100.0,Canadian,3463.97
+Central African Republic,2019,53.1,62.55,381.0,Rest Africa,3806.83
+Chad,2019,59.6,78.87,653.0,Rest Africa,3806.83
+Chile,2019,80.7,87.89,13800.0,South American,4420.76
+China,2019,77.4,104.1,10200.0,Chinese and Mongolian,3665.43
+Colombia,2019,79.3,83.13,6400.0,South American,4420.76
+Costa Rica,2019,80.8,88.34,12700.0,Central American,3795.24
+Cuba,2019,77.8,83.9,8040.0,Caribbean,3691.78
+Denmark,2019,81.3,97.83,57200.0,Scandinavian,4395.05
+Djibouti,2019,65.8,68.41,2820.0,Rest Africa,3806.83
+Ecuador,2019,78.4,78.26,5860.0,South American,4420.76
+Egypt,2019,71.8,76.32,3770.0,Middle Eastern,4012.9
+Ethiopia,2019,68.7,68.42,785.0,Rest Africa,3806.83
+Finland,2019,81.6,101.2,46100.0,Scandinavian,4395.05
+France,2019,82.5,96.69,38800.0,French,3346.19
+Gabon,2019,66.5,62.97,6890.0,Rest Africa,3806.83
+Germany,2019,81.7,100.74,43300.0,Deutschland,3960.89
+Ghana,2019,66.3,58.16,1980.0,Rest Africa,3806.83
+Greece,2019,81.1,90.77,19000.0,Greek,3637.82
+Guatemala,2019,72.0,47.72,4260.0,Central American,3795.24
+Guinea,2019,61.0,53.48,938.0,Rest Africa,3806.83
+Guyana,2019,65.7,83.23,6350.0,South American,4420.76
+Haiti,2019,64.1,82.1,1390.0,Caribbean,3691.78
+Honduras,2019,71.9,62.16,2450.0,Central American,3795.24
+Hungary,2019,76.4,99.24,15100.0,Eastern European,4108.86
+Iceland,2019,82.3,98.26,57800.0,Scandinavian,4395.05
+India,2019,70.8,76.24,1940.0,Indian Subcontinent,2830.23
+Indonesia,2019,71.3,78.49,3890.0,Southeast Asian,3585.44
+Iraq,2019,72.4,89.28,4850.0,Middle Eastern,4012.9
+Ireland,2019,81.8,95.13,75200.0,Irish,3501.56
+Israel,2019,82.6,92.43,39600.0,Middle Eastern,4012.9
+Italy,2019,83.0,94.23,32100.0,Italian,2806.85
+Jamaica,2019,76.0,75.08,5310.0,Caribbean,3691.78
+Japan,2019,84.3,106.48,36100.0,Japanese,2591.63
+Jordan,2019,77.9,80.7,3920.0,Middle Eastern,4012.9
+Kenya,2019,66.1,75.2,1650.0,Rest Africa,3806.83
+Kuwait,2019,81.0,78.64,25800.0,Middle Eastern,4012.9
+Lebanon,2019,76.4,81.7,8070.0,Middle Eastern,4012.9
+Lesotho,2019,50.7,68.87,1070.0,Rest Africa,3806.83
+Liberia,2019,64.1,45.07,644.0,Rest Africa,3806.83
+Libya,2019,75.8,80.92,9280.0,Northern Africa,4172.62
+Madagascar,2019,65.3,76.79,479.0,Rest Africa,3806.83
+Malawi,2019,65.6,69.7,396.0,Rest Africa,3806.83
+Malaysia,2019,74.7,87.58,11100.0,Southeast Asian,3585.44
+Mali,2019,62.8,59.76,779.0,Rest Africa,3806.83
+Mauritania,2019,68.4,59.76,1670.0,Rest Africa,3806.83
+Mexico,2019,76.0,87.73,10000.0,Mexican,3173.24
+Mongolia,2019,68.1,91.03,4390.0,Chinese and Mongolian,3665.43
+Morocco,2019,73.0,67.03,3360.0,Northern Africa,4172.62
+Mozambique,2019,58.1,72.5,600.0,Rest Africa,3806.83
+Namibia,2019,64.6,66.19,4600.0,Rest Africa,3806.83
+Nepal,2019,70.9,42.99,1060.0,Indian Subcontinent,2830.23
+Netherlands,2019,81.8,100.74,48400.0,Belgian,4409.46
+Niger,2019,63.3,70.82,521.0,Rest Africa,3806.83
+Nigeria,2019,62.6,67.76,2510.0,Rest Africa,3806.83
+Norway,2019,82.6,97.13,76000.0,Scandinavian,4395.05
+Oman,2019,73.9,78.7,18000.0,Middle Eastern,4012.9
+Pakistan,2019,65.6,80.0,1450.0,Indian Subcontinent,2830.23
+Paraguay,2019,75.8,84.04,6230.0,South American,4420.76
+Peru,2019,79.9,81.44,6550.0,South American,4420.76
+Poland,2019,78.3,96.35,15100.0,Eastern European,4108.86
+Portugal,2019,81.6,92.77,21600.0,Spanish and Portuguese,3660.73
+Qatar,2019,77.2,80.78,59700.0,Middle Eastern,4012.9
+Romania,2019,75.6,86.88,11300.0,Eastern European,4108.86
+Rwanda,2019,69.1,69.95,871.0,Rest Africa,3806.83
+Saudi Arabia,2019,74.3,76.36,19000.0,Middle Eastern,4012.9
+Senegal,2019,68.6,77.37,1410.0,Rest Africa,3806.83
+Sierra Leone,2019,60.8,45.07,631.0,Rest Africa,3806.83
+Somalia,2019,56.5,67.67,428.0,Rest Africa,3806.83
+South Africa,2019,65.3,68.87,6190.0,Rest Africa,3806.83
+Spain,2019,83.2,93.9,28100.0,Spanish and Portuguese,3660.73
+Sudan,2019,69.1,78.87,1950.0,Rest Africa,3806.83
+Suriname,2019,71.5,90.29,8760.0,South American,4420.76
+Sweden,2019,82.4,97.0,53500.0,Scandinavian,4395.05
+Switzerland,2019,83.4,99.24,87100.0,Deutschland,3960.89
+Thailand,2019,77.7,88.87,6460.0,Thai,3020.79
+Togo,2019,64.3,59.83,618.0,Rest Africa,3806.83
+Tunisia,2019,77.0,79.22,4090.0,Rest Africa,3806.83
+Uganda,2019,66.7,76.42,922.0,Rest Africa,3806.83
+Ukraine,2019,73.0,90.07,2430.0,Eastern European,4108.86
+United Arab Emirates,2019,76.1,82.05,43800.0,Middle Eastern,4012.9
+Uruguay,2019,77.1,87.59,16200.0,South American,4420.76
+Zambia,2019,62.5,68.43,1310.0,Rest Africa,3806.83
+Zimbabwe,2019,60.7,74.01,1340.0,Rest Africa,3806.83
+USA,2019,78.5,97.43,60700.0,US,4216.08
+Venezuela,2019,73.9,82.99,2624.0,South American,4420.76
+UK,2019,81.4,99.12,47500.0,UK,4311.62
+Czech Republic,2019,79.1,94.92,23664.0,Eastern European,4108.86
+Moldova,2019,73.3,89.98,4405.0,Eastern European,4108.86
+Russia,2019,73.2,96.29,11536.0,Eastern European,4108.86
+Turkey,2019,77.8,86.8,9215.0,Middle Eastern,4012.9
+Syria,2019,71.8,74.41,1124.0,Middle Eastern,4012.9
+Palestine,2019,75.2,77.69,3657.0,Middle Eastern,4012.9
+Yemen,2019,65.0,62.86,694.0,Middle Eastern,4012.9
+Gambia,2019,63.7,52.68,723.0,Rest Africa,3806.83
+Ivory Coast,2019,59.3,61.0,2291.0,Rest Africa,3806.83
+Eritrea,2019,67.3,68.77,567.0,Rest Africa,3806.83
+South Sudan,2019,55.9,58.61,302.0,Rest Africa,3806.83
+Tanzania,2019,67.0,74.95,1051.0,Rest Africa,3806.83
+Democratic Republic of the Congo,2019,60.3,64.92,577.0,Rest Africa,3806.83
+Congo Republic,2019,62.7,62.97,2509.0,Rest Africa,3806.83
+Vietnam,2019,79.0,89.53,3491.0,Southeast Asian,3585.44
+Laos,2019,68.1,80.99,2599.0,Southeast Asian,3585.44
+Cambodia,2019,70.7,99.75,1671.0,Southeast Asian,3585.44
+Korea,2019,83.3,102.35,31600,Korean,4384.7

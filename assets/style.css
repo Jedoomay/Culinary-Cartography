@@ -1,0 +1,197 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Import Google  Snas*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+/* Body styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f2f5;
+    color: #343a40;
+    line-height: 1.6;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* fadd navabar  */
+.navbar {
+    width: 100%;
+    background-color: #343a40;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.navbar a:hover {
+    background-color: #007bff;
+}
+
+/* Main content area desingnn */
+.main-content {
+    margin-top: 60px; /* Add top margin to account for fixed navbar */
+    padding: 20px;
+    width: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Container stlying */
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Heading styling */
+h1 {
+    margin: 20px 0;
+    text-align: center;
+    color: #007bff;
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+/* Project info styling */
+.project-info {
+    text-align: center;
+    margin: 20px 0;
+}
+
+/* Graph container styling */
+.graph-container {
+    width: 100%;
+    flex-grow: 1; /* Allow the graph to grow and take available space, !!don't think it works as intended */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Label styling */
+.label {
+    font-weight: 500;
+    margin-top: 10px;
+    display: block;
+}
+
+/* Dropdown styling */
+.dash-dropdown {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+/* Radio button group styling */
+.custom-radio-items {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.custom-radio-items .form-check {
+    display: flex;
+    align-items: center;
+}
+
+.custom-radio-items .form-check-input {
+    margin-right: 10px;
+}
+
+/* Improve input elements */
+.dcc-Input,
+.dcc-Dropdown,
+.dcc-Slider {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+/* Button styling */
+.dcc-Button {
+    background-color: #007bff;color: white;border: none;padding: 10px 20px;border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.dcc-Button:hover {
+    background-color: #0056b3;
+}
+
+/* Improve graph appearance */
+.graph-container .js-plotly-plot {
+    height: 100%; /* Ensure graph uses the full height of the container */
+    width: 100%; /* Ensure graph uses the full width of the container */
+}
+
+/* Media queries for responsive design */
+@media (max-width: 1200px) {
+    .container {
+        max-width: 1000px;
+    }
+}
+
+@media (max-width: 992px) {
+    .container {
+        max-width: 750px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        max-width: 600px;
+        padding: 10px;
+    }
+
+    .navbar a {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 2em;
+    }
+}
+
+@media (max-width: 576px) {
+    .container {
+        max-width: 400px;
+        padding: 10px;
+    }
+
+    .navbar a {
+        padding: 8px;
+        font-size: 12px;
+    }
+
+    h1 {
+        font-size: 1.5em;
+    }
+}
